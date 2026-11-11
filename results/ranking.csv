@@ -1,0 +1,6 @@
+order,file,model,CV cost/resident,CV std,vaccines sent,share sent
+1,challenge_submission_group_S_order_1.csv,LightGBM_tuned,3224,105,1606,0.338
+2,challenge_submission_group_S_order_2.csv,LightGBM,3230,101,1607,0.338
+3,challenge_submission_group_S_order_3.csv,Ensemble,3231,107,1639,0.345
+4,challenge_submission_group_S_order_4.csv,LogisticRegression,3235,106,1661,0.35
+5,challenge_submission_group_S_order_5.csv,RandomForest,3235,107,1625,0.342
