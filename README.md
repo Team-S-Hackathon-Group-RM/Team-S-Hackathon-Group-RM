@@ -17,7 +17,15 @@ The challenge dataset and question will be revealed during the hackathon.
 
 ## Team
 Our team consists of 9 members.
-Team names and contributions will be added here.
+Aqsa Iqbal
+FazalIqra 
+Lakshmi Nagaraju Manthri
+Sai Raghavendra Ummareddy
+Shravani Mukkarigari
+Shruthi Chintalapudi
+Siva Harshitha Maruri
+Vaishnavi Kodi Chinthala
+Varun Kumar Kashetty
 
 ## Notebook
 Our project notebook is: Team_S_Hackathon.ipynb
