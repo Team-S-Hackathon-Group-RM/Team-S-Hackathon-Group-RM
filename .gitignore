@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---- Team S additions ----
+.DS_Store
+# course materials and phone photos stay private
+docs/reference/
+download/
+GroupS_submission.zip
